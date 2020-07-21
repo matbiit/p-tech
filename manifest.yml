@@ -1,0 +1,4 @@
+applications:
+- name: p-tech-matbiit
+  random-route: true
+  memory: 64M
